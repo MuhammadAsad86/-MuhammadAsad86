@@ -11,7 +11,7 @@
 - 💻 Completed a **3-month MERN Stack Development course** through NAVTTC
 - 🌱 Currently sharpening my full-stack skills through real-world projects
 - 📫 Based in Multan, Pakistan
-- 💼 Open to internships and junior developer roles
+- 💼 Open to opportunities
 
 ---
 
