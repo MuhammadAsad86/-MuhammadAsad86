@@ -38,7 +38,7 @@
 | ✍️ **MERN Blog** | Full-stack blog application with JWT authentication and CRUD blog posts | [Demo](https://mern-blog-theta-lilac.vercel.app/) |
 | 🌐 **Corporate Website** | 6-page responsive React + Vite + Tailwind CSS business website | [Demo](https://responsive-corporate-website-coral.vercel.app/) |
 | 👤 **Personal Portfolio** | Animated React + Framer Motion portfolio with dark mode & live GitHub stats | [Demo](https://asad-portfolio-tau.vercel.app/) |
-| 🧮 **Binary Converter Calculator** | Number system converter (Binary/Octal/Decimal/Hex) with a live digital clock | [Repo](https://github.com/MuhammadAsad86/binary-converter-calculator) |
+| 🧮 **Binary Converter Calculator** | Number system converter (Binary/Octal/Decimal/Hex) with a live digital clock | [Demo](https://muhammadasad86.github.io/binary-converter-calculator/) |
 
 ---
 
@@ -49,7 +49,7 @@
 | ✍️ **[mern-blog](https://github.com/MuhammadAsad86/mern-blog)** | Full-stack blog app with JWT authentication, Redux Toolkit & CRUD posts | [Demo](https://mern-blog-theta-lilac.vercel.app/) |
 | 👤 **[asad-portfolio](https://github.com/MuhammadAsad86/asad-portfolio)** | React + Vite + Tailwind v4 + Framer Motion personal portfolio | [Demo](https://asad-portfolio-tau.vercel.app/) |
 | 🌐 **[responsive-corporate-website](https://github.com/MuhammadAsad86/responsive-corporate-website)** | 6-page responsive React + Vite + Tailwind business website | [Demo](https://responsive-corporate-website-coral.vercel.app/) |
-| 🧮 **[binary-converter-calculator](https://github.com/MuhammadAsad86/binary-converter-calculator)** | Number system converter (Binary/Octal/Decimal/Hex) with live digital clock | [Repo](https://github.com/MuhammadAsad86/binary-converter-calculator) |
+| 🧮 **[binary-converter-calculator](https://github.com/MuhammadAsad86/binary-converter-calculator)** | Number system converter (Binary/Octal/Decimal/Hex) with live digital clock | [Demo](https://muhammadasad86.github.io/binary-converter-calculator/) |
 | 🏦 **[MEEZAN-BANK-PAGE](https://github.com/MuhammadAsad86/MEEZAN-BANK-PAGE)** | Static HTML/Tailwind bank dashboard UI clone with transactions page | [Demo](https://muhammadasad86.github.io/MEEZAN-BANK-PAGE/) |
 
 ---
@@ -68,7 +68,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAsad86&show_icons=true&theme=default" alt="Muhammad Asad's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=MuhammadAsad86&show_icons=true&theme=default" alt="Muhammad Asad's GitHub Stats" />
 </p>
 
 ---
