@@ -50,7 +50,7 @@
 
 <p>
   <a href="https://www.credly.com/badges/b3bb8039-fb18-49f9-a6c0-4164bd11f38a/public_url">
-    <img src="./certificate-badge.png" alt="IT Specialist - JavaScript" width="120"/>
+    <img src="[./certificate-badge.png" alt="IT Specialist - JavaScript" width="120"](https://images.credly.com/size/110x110/images/ef99b79e-fd54-4eb5-b2a4-bf17e92a4837/ITS-Badges_JavaScript_1200px.png)/>
   </a>
 </p>
 
