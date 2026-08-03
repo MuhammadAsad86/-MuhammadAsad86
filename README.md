@@ -59,6 +59,8 @@
   <a href="https://www.credly.com/badges/b3bb8039-fb18-49f9-a6c0-4164bd11f38a/public_url">
     <img src="https://images.credly.com/size/110x110/images/ef99b79e-fd54-4eb5-b2a4-bf17e92a4837/ITS-Badges_JavaScript_1200px.png" alt="IT Specialist - JavaScript" width="120" />
   </a>
+  <br />
+  <a href="https://www.credly.com/badges/b3bb8039-fb18-49f9-a6c0-4164bd11f38a/public_url"><sub>🔗 Click badge to verify credential</sub></a>
 </p>
 
 - **IT Specialist – JavaScript** — Certiport (Pearson VUE) — Issued July 2026
@@ -77,5 +79,5 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/muhammadasad86/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-    
+
 ⭐️ From [MuhammadAsad86](https://github.com/MuhammadAsad86)
