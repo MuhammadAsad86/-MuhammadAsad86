@@ -39,7 +39,7 @@
 | Project | Description | Live Demo |
 |---|---|---|
 | 🛒 **RA Collection (E-Commerce)** | Full-stack MERN e-commerce app with customer storefront, admin dashboard, cart, and Stripe payments | [Demo](https://ecommerce-web-application-dusky.vercel.app/) |
-| ✍️ **MERN Blog** | Full-stack blog application with JWT authentication and CRUD blog posts | [Repo](https://github.com/MuhammadAsad86/mern-blog) |
+| ✍️ **MERN Blog** | Full-stack blog application with JWT authentication and CRUD blog posts | [Demo](https://mern-blog-theta-lilac.vercel.app/) |
 | 🌐 **Corporate Website** | 6-page responsive React + Vite + Tailwind CSS business website | [Demo](https://responsive-corporate-website-coral.vercel.app/) |
 | 👤 **Personal Portfolio** | Animated React + Framer Motion portfolio with dark mode & live GitHub stats | [Demo](https://asad-portfolio-tau.vercel.app/) |
 | 🧮 **Binary Converter Calculator** | Number system converter (Binary/Octal/Decimal/Hex) with a live digital clock | [Repo](https://github.com/MuhammadAsad86/binary-converter-calculator) |
@@ -50,7 +50,7 @@
 
 <p>
   <a href="https://www.credly.com/badges/b3bb8039-fb18-49f9-a6c0-4164bd11f38a/public_url">
-    <img src="https://images.credly.com/size/150x150/images/8b8ecfab-506d-4ac0-806f-9a19c62adcf4/CS_IT_specialist_javascript.png" alt="IT Specialist - JavaScript" width="120"/>
+    <img src="./certificate-badge.png" alt="IT Specialist - JavaScript" width="120"/>
   </a>
 </p>
 
